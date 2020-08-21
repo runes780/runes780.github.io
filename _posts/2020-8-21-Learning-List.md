@@ -3,7 +3,7 @@ layout: post
 title: 假期学习清单
 ---
 
-# check list
+# heck list
 
 ## 1. 幸福课：
 
