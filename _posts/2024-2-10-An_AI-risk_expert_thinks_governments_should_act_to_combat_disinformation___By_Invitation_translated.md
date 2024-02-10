@@ -9,9 +9,6 @@ title: 一位人工智能风险专家认为，政府应当采取行动来打击�
 
 ## 一位人工智能风险专家认为，政府应当采取行动来打击错误信息
 
-
-
-
 ![image](https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240210_BID001.jpg)
 
 <div></div><p><span>O</span><small>NE DAY</small> last November, Olaf Scholz addressed the German people with an unexpected announcement: his government was to request the Federal Constitutional Court to ban the “fascist” Alternative für Deutschland, a far-right political party. A video containing the German leader’s message appeared on a website created specifically for that purpose.</p>
