@@ -1,6 +1,10 @@
-Love, frugality and home-grown flowers are in the air | Britain
+---
+layout: post
+title: 英国 | 爱情、节俭和自家种植的花朵弥漫在空气中
+excerpt_separator: <!--more-->
+---
 
-| 英国 | 爱情、节俭和自家种植的花朵弥漫在空气中。 |
+<!--more-->
 
 
 # Love, frugality and home-grown flowers are in the air | Britain
