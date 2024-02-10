@@ -1,9 +1,17 @@
-Xi Jinping’s chaos-loving friends | China
+---
+layout: post
+title: Jinping’s chaos-loving friends | China
+---
 
-习近平的朋友们：好斗与混乱 | 中国
+
+
 
 
 # Xi Jinping’s chaos-loving friends | China
+
+
+
+习近平的朋友们：好斗与混乱 | 中国
 
 ![image](https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240210_CND000.jpg)
 
