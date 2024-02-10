@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 小而有力：可爱性如何征服全球 | 文化
+excerpt_separator: <!--more-->
 ---
 
 
-
+<!--more-->
 
 ## Small, but mighty: how cuteness has taken over the world 
 ## 小而有力：可爱性如何征服全球 | 文化
