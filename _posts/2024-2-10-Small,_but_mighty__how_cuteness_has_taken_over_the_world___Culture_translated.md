@@ -6,7 +6,7 @@ title: 小而有力：可爱性如何征服全球 | 文化
 
 
 
-## Small, but mighty: how cuteness has taken over the world | 
+## Small, but mighty: how cuteness has taken over the world 
 ## 小而有力：可爱性如何征服全球 | 文化
 
 ![image](https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240210_CUP002.jpg)
