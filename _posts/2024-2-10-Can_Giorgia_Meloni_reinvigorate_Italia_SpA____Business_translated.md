@@ -1,6 +1,10 @@
-Can Giorgia Meloni reinvigorate Italia SpA? | Business
+2024-2-10-
 
-乔吉娅·梅洛尼能否重振意大利股份有限公司（Italia SpA）的活力？| 商业
+---
+layout: post
+title: 乔吉娅·梅洛尼能否重振意大利股份有限公司（Italia SpA）的活力？| 商业
+---
+
 
 
 # Can Giorgia Meloni reinvigorate Italia SpA? | Business
