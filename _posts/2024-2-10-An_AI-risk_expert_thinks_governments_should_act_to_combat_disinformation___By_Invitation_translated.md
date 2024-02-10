@@ -1,9 +1,12 @@
+---
+layout: post
+title: 一位人工智能风险专家认为，政府应当采取行动来打击错误信息
+---
+
+
 # An AI-risk expert thinks governments should act to combat disinformation | By Invitation
+# 一位人工智能风险专家认为，政府应当采取行动来打击错误信息。| 凭邀请撰写
 
-一位人工智能风险专家认为，政府应当采取行动来打击错误信息。| 凭邀请撰写
-
-
-# An AI-risk expert thinks governments should act to combat disinformation | By Invitation
 
 ![image](https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240210_BID001.jpg)
 
