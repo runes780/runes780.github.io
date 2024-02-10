@@ -5,8 +5,9 @@ title: 一位人工智能风险专家认为，政府应当采取行动来打击�
 
 
 
-## An  thinks governments should act to combat disinformation | By Invitation
+# An  thinks governments should act to combat disinformation | By Invitation
 
+## 一位人工智能风险专家认为，政府应当采取行动来打击错误信息
 
 
 
