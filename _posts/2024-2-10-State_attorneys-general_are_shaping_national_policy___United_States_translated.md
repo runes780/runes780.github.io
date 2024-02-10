@@ -1,9 +1,13 @@
-State attorneys-general are shaping national policy | United States
+---
+layout: post
+title: 州的检察长正在塑造国家政策 | 美国
+---
 
-州的检察长正在塑造国家政策 | 美国
 
 
-# State attorneys-general are shaping national policy | United States
+
+## State attorneys-general are shaping national policy | United States
+## 州的检察长正在塑造国家政策 | 美国
 
 ![image](https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240210_USP002.jpg)
 
