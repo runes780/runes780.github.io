@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Musk v Zuckerberg: who’s winning? | Business
+layout:post
+title:Musk v Zuckerberg: who’s winning? | Business
 ---
 
 
