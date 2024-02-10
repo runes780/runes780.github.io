@@ -5,6 +5,10 @@ title: 乔吉娅·梅洛尼能否重振意大利股份有限公司（Italia SpA�
 
 # Can Giorgia Meloni reinvigorate Italia SpA? | Business
 
+
+乔吉娅·梅洛尼能否重振意大利股份有限公司（Italia SpA）的活力？| 商业
+
+
 ![image](https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240210_WBP502.jpg)
 
 <div></div><p><span>P</span><small>rominently displayed</small> at a bookshop at Linate airport in Milan is the cover of <i>Quando eravamo i padroni del mond</i>o (When we were the masters of the world). The book about the Roman empire has been on the bestseller list since it was published in September. It reflects Italians’ nostalgic longing for their now rather ancient glory. They could take solace from the fact that many Italian brands are still masters of the world: think fast cars (Ferrari, Maserati, Lamborghini), elegant motorcycles (Ducati, Vespa), beautiful clothes (Gucci, Prada, Zegna) and accessories to go with them (Fendi, Bottega Veneta). </p>
