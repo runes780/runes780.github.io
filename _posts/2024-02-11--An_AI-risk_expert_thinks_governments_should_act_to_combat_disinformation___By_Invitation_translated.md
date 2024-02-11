@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 一位人工智能风险专家认为，政府应该采取行动来对抗错误信息。| 邀请专题
+title: # 一位AI风险专家认为，政府应该采取行动来打击假信息。| 邀请致辞
 
 
 # An AI-risk expert thinks governments should act to combat disinformation | By Invitation
