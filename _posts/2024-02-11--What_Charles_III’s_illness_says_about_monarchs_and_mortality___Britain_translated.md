@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 查尔斯三世的病情揭示了君主与生命终点的关系 | 英国
+title: # 查尔斯三世的病情揭示了君主与生死的关系 | 英国
 
 
 # What Charles III’s illness says about monarchs and mortality | Britain
