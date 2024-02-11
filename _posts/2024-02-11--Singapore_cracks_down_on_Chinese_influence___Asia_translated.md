@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 新加坡严厉打击中国影响力 | 亚洲
+title: # 新加坡严厉打击中国影响力|亚洲
 
 
 # Singapore cracks down on Chinese influence | Asia
