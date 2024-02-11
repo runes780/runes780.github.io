@@ -1,8 +1,6 @@
 ---
 layout: post
-title: # 中国富裕阶层正遭受来自各方的冲击 | 简报 
-
-Chinese affluent class is under siege on all fronts | Analysis Note
+title: # 中国的富人正受到来自四面八方的攻击 | 简报
 
 
 # China’s well-to-do are under assault from every side | Briefing
