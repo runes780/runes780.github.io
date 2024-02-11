@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 小巧但威力无穷：可爱性是如何征服世界的 | 文化
+title: # 小型却威力无穷：可爱如何征服全球 | 文化
 
 
 # Small, but mighty: how cuteness has taken over the world | Culture
