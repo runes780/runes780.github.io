@@ -1,46 +1,19 @@
 ---
 layout: post
-title: 全文翻译：
-
-弗拉基米尔·普京进一步加强了他在俄罗斯和欧洲范围内的镇压行动。
-
+title: Vladimir_Putin_extends_his_crackdown_in_Russia___Europe.md
 excerpt_separator: <!--more-->
 ---
 
 
 <!--more-->
 
----
-layout: post
-title: Vladimir_Putin_extends_his_crackdown_in_Russia___Europe.md
-excerpt_separator: more
----
-
-
-more
 <h1>Vladimir Putin extends his crackdown in Russia | Europe</h1>
-
-全文翻译：弗拉基米尔·普京加强对俄罗斯的镇压措施|欧洲新闻。
-
-
-
 
 弗拉基米尔·普京加大对俄罗斯的镇压力度 | 欧洲
 
 
 
 <p><img src="https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240210_EUP002.jpg"/><div></div><p><span>O</span><small>n January 25th</small> a Russian court sentenced Igor Girkin, a former officer of the <small>FSB</small>, Russia’s main security service, to four years in a penal colony for the crime of “public incitement of extremist activity”. His arrest last July, days after he had criticised Vladimir Putin’s wartime decisions and called the Russian president a “cowardly mediocrity” on social media, has sent shockwaves through Russia’s active community of pro-war nationalists, many of whom deem him a hero.</p><div><figure><div><figcaption>Listen to this story.</figcaption> <span>Enjoy more audio and podcasts on<!-- --> <a href="https://www.economist.comhttps://economist-app.onelink.me/d2eC/bed1b25" id="audio-ios-cta" rel="noreferrer" target="_blank">iOS</a> <!-- -->or<!-- --> <a href="https://www.economist.comhttps://economist-app.onelink.me/d2eC/7f3c199" id="audio-android-cta" rel="noreferrer" target="_blank">Android</a>.</span></div><audio controls="" id="audio-player" preload="none" src="https://www.economist.com/media-assets/audio/046%20Europe%20-%20Russia-fa56bd3f4c627014223db97e60e62a35.mp3" title="Vladimir Putin extends his crackdown in Russia"><p>Your browser does not support the &lt;audio&gt; element.</p></audio><div><div></div></div></figure></div><p>Mr Girkin’s reputation rests on his paramilitary career; under the codename Strelkov (“Marksman”), he proved a key figure in both the annexation of Crimea in 2014 and the initial organisation of rebel groups in Ukraine’s eastern Donbas region. He remains a strong supporter of both the war and Russia’s resurgent national project, notwithstanding running afoul of the Kremlin. The case has heralded a shift in Kremlin prison policy, which now not merely punishes critics of the war but also seeks to rein in the excesses of troublesome supporters. </p><aside><p><i>Read more of our recent coverage of the <a href="https://www.economist.com/ukraine-crisis">Ukraine war</a></i></p></aside><p>Politically motivated cases in Russia have long resulted in draconian prison sentences, but the motivations for such prosecution have shifted with time. In the 2000s cases were brought against prominent business figures like Mikhail Khodorkovsky, an oligarch, and Sergei Magnitsky, a tax adviser who later died violently while in custody. In the 2010s political prisoners tended to be involved in protest movements, as was the case with the band Pussy Riot and with the house arrest in 2014 of Alexei Navalny, Russia’s most prominent opposition leader. </p><div><div><div id="econ-1"></div></div></div><p>Following Russia’s invasion of Ukraine in February 2022, however, the policy shifted again and Russia’s many prisons started to be used as an instrument for punishing opponents of the war. Mr Navalny, who has been held in custody since 2021, has received two additional sentences since the invasion began: first for nine years and then for another 19.</p><p>Punishment even against grassroots activists has veered into the absurd. One example is the seven-year sentence imposed in mid-November on Sasha Skochilenko, an artist who replaced grocery-store price tags with criticisms of the Russian army and the war effort. Last summer Olga Smirnova, an activist, was sentenced to six years in jail in connection with seven war-related posts she had made on Vkontakte, a Russian social-media platform. </p><p>Cases such as these are launched selectively, and to set an example, says Sergey Troshin, a St Petersburg municipal councillor who has expressed public support for both Ms Smirnova and Ms Skochilenko. “The task the state set for itself was to take a few people and publicly hand them large sentences,” he said. “You can think of this as ‘precision repression’, and it makes people scared enough to halt their activism.” </p><p>According to <small>OVD</small>-Info, a human-rights monitor, approximately 160 Russians have been imprisoned and over 850 have been prosecuted for anti-war activities since the start of the full-scale invasion of Ukraine in February 2022. </p><p>The prison system has also been used as a reward for loyalty as much as a punishment for defiance. Prisoners, many of whom had been convicted for multiple, violent crimes, have walked free with full pardons after serving in the Russian army in Ukraine for as little as six months. This has been framed in state-run media outlets and friendly social media as a reward for loyalty to a new national project centred on resistance to the West, the promotion of a multipolar world and Russia’s continuing influence in the “near abroad”. </p><div><div><div id="econ-2"></div></div></div><p>However, a recent investigation conducted by <small>BBC </small>Russia uncovered a shift in policy. In an effort to curb local resentment, and probably to distance the president from what has proved to be a controversial policy during the runup to the presidential elections next month, ex-convict veterans are now required to serve until the war’s end in return for probation rather than a pardon. Exoneration may only be received in cases when soldiers reach the military’s age limit, earn a special commendation or are maimed in combat, described as “health loss”. <span>■</span></p><p><i>To stay on top of the biggest European stories, sign up to <a href="https://www.economist.com/newsletters/cafe-europa">Café Europa</a>, our weekly subscriber-only newsletter.</i></p></p>
-
-原文：
-
-2023年1月25日，俄罗斯法庭判处前FSB军官伊戈尔·季里京四年徒刑，罪名是“公共煽动极端主义活动”。他于去年7月被捕，当时他对俄罗斯在战时的决策表示批评，并将俄罗斯总统称为“怯懦平庸”的人。
-
-翻译：
-
-2023年1月25日，俄国法院作出判决，前FSB特工伊戈尔·季里京被判处四年有期徒刑。他因为“公开煽动极端主义活动”受到指控。季里京于去年7月被捕，当时他在社交媒体上批评了俄罗斯在战争中的决策，并称总统为“懦弱平庸”的形象。
-
-
-
 
 原文标题：Russia's prison policy shifts to punish war critics
 
@@ -51,3 +24,4 @@ more
 这一政策的变化部分是为了缓和地方的不满情绪，同时也是为了将总统与一个在即将到来的总统选举期间引起争议的政策拉开距离。现在，退役的前罪犯被要求服至战争结束以获得缓刑而不是赦免。只有当士兵达到军队年龄限制、获得特殊表彰或因战斗中的伤残（被称为“健康损失”）而得到赦免。
 
 ■订阅我们的每周电子通讯《欧洲咖啡馆》，以获取有关欧洲最大新闻故事的最新资讯。
+
