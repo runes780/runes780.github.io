@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 四十年来首个子宫内膜异位症药物即将面世|科技与技术
+title: # 长达四十年的首例内膜异位症药物即将面世|科技与科学。
 
 
 # The first endometriosis drug in four decades is on the horizon | Science & technology
