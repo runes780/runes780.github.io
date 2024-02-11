@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 英国如何失去了其毒品战争 | 英国
+title: # 英国如何失去了其对毒品的战争 | 英国
 
 
 # How Britain lost its war on drugs | Britain
