@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 瓦族：世界上最大的毒品经销商，却拥有低调的形象 | 文化
+title: # 瓦族：全球最大规模的毒品经销商，拥有低调的形象 | 文化
 
 
 # The Wa: the world’s biggest drug-dealers, with a tiny profile | Culture
