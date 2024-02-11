@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 北爱尔兰政府重新上台 | 英国
+title: # 北爱尔兰政府重新上台|英国
 
 
 # Northern Ireland gets its government back | Britain
