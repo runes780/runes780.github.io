@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 编者按信件投稿|来信
+title: # 编辑部来信 | 来信
 
 
 # Letters to the editor | Letters
