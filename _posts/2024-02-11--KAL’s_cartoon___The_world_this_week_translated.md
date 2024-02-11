@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # KA-L的卡通作品 | 这周的世界新闻回顾
+title: # 开莱的卡通作品 | 本周世界观察
 
 
 # KAL’s cartoon | The world this week
