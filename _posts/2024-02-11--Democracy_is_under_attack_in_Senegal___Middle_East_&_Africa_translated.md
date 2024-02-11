@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # "塞内加尔的民主正在受到攻击|中东与非洲"
+title: # "民主正在塞内加尔受到攻击。"
 
 
 # Democracy is under attack in Senegal | Middle East & Africa
