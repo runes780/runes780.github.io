@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 乔吉娅·梅洛尼能否重振意太 spa 的活力？| 商业
+title: # 意大利是否能通过Giorgia Meloni领导下的振兴，使"SpA"的意大力公司恢复活力？ | 商业观察
 
 
 # Can Giorgia Meloni reinvigorate Italia SpA? | Business
