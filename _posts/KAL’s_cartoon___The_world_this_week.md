@@ -1,15 +1,3 @@
----
-layout: post
-title: # 开莱的卡通作品 | 本周世界观察
-
-
-# KAL’s cartoon | The world this week
-excerpt_separator: <!--more-->
----
-
-
-<!--more-->
-
 # KAL’s cartoon | The world this week
 
 <img src="https://images.weserv.nl/?url=www.economist.com/img/b/1280/882/90/media-assets/image/20240210_WWD000.png" /><div></div><p><b>Dig deeper into the subject of this week’s cartoon:</b><br /><br /><a href="https://www.economist.com/leaders/2024/02/07/house-republicans-are-helping-vladimir-putin"><i>House Republicans are helping Vladimir Putin</i></a></p><p><a href="https://www.economist.com/europe/2024/02/08/vladimir-putin-extends-his-crackdown"><i>Vladimir Putin extends his crackdown</i></a></p><p><a href="https://www.economist.com/europe/2024/02/01/meet-boris-nadezhdin-vladimir-putins-brave-challenger"><i>Meet Boris Nadezhdin, Vladimir Putin’s brave challenger</i></a></p><p><i>KAL’s cartoon appears weekly in The Economist. You can see last week’s <a href="https://www.economist.com/the-world-this-week/2024/02/01/kals-cartoon">here</a>.</i></p>
