@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 前任首相的魅力让工党着迷 | 英国
+title: # 前首相的魅力吸引了工党 | 英国
 
 
 # The former prime minister who fascinates the Labour Party | Britain
