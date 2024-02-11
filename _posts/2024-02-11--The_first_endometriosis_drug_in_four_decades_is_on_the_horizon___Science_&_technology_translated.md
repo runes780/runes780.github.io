@@ -1,14 +1,13 @@
 ---
 layout: post
-title: # 长达四十年的首例内膜异位症药物即将面世|科技与科学。
-
-
-# The first endometriosis drug in four decades is on the horizon | Science & technology
+title: 
 excerpt_separator: <!--more-->
 ---
 
 
 <!--more-->
+
+
 
 # The first endometriosis drug in four decades is on the horizon | Science & technology
 
