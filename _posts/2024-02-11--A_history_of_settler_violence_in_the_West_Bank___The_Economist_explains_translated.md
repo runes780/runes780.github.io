@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 《经济学人》解释了西岸定居者暴力行为的历史。
+title: # 西岸定居者暴力史 | 经济学家解释
 
 
 # A history of settler violence in the West Bank | The Economist explains
