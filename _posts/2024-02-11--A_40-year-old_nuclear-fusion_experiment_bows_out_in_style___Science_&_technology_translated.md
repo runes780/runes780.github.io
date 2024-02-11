@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 一篇关于40年核聚变实验的报道以时尚方式落幕|科学与技术
+title: # 一项有着40年历史的核聚变实验以华丽的方式落幕。| 科学与技术
 
 
 # A 40-year-old nuclear-fusion experiment bows out in style | Science & technology
