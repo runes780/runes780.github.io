@@ -1,6 +1,8 @@
 ---
 layout: post
-title: # 弗拉基米尔·普京加强对俄罗斯的镇压|欧洲
+title: # 全文翻译：
+
+弗拉基米尔·普京继续加强俄罗斯的镇压行动|欧洲
 
 
 # Vladimir Putin extends his crackdown in Russia | Europe
