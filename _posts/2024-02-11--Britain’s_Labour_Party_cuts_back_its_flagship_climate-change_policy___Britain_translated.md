@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 英国工党缩减其旗舰气候变化政策。
+title: # 英国工党缩减其旗舰的气候变化政策。| 英国
 
 
 # Britain’s Labour Party cuts back its flagship climate-change policy | Britain
