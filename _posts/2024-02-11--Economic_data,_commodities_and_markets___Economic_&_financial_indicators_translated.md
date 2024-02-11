@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 经济数据、商品与市场 | 经济与金融指标
+title: # 经济数据、商品和市场|经济与金融指标。
 
 
 # Economic data, commodities and markets | Economic & financial indicators
