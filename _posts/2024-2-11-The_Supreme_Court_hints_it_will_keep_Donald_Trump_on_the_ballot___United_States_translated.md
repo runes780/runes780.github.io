@@ -1,5 +1,10 @@
-# 最高法院暗示将保持唐纳德·特朗普的参选资格 | 美国
+---
+layout: post
+title: 最高法院暗示将保持唐纳德·特朗普的参选资格 | 美国
+excerpt_separator: <!--more-->
+---
 
+<!--more-->
 
 # The Supreme Court hints it will keep Donald Trump on the ballot | United States
 
