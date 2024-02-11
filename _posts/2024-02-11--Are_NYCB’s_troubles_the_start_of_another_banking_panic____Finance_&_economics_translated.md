@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # NYCB的问题是否预示着另一次银行业恐慌的开始？| 财经与经济
+title: # NYCB的困境是否会引发新一轮的银行业恐慌？| 财经与经济
 
 
 # Are NYCB’s troubles the start of another banking panic? | Finance & economics
