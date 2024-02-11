@@ -1,0 +1,63 @@
+---
+layout: post
+title: Vladimir_Putin_wants_to_catch_up_with_the_West_in_AI.md
+excerpt_separator: <!--more-->
+---
+
+
+<!--more-->
+
+<hr/>
+<p>layout: post
+title: ---
+excerpt_separator: <!--more--></p>
+
+布局: 发布
+标题: ---
+摘录分隔符:  全文翻译: (空)
+
+
+
+<hr/>
+more
+<hr/>
+<p>layout: post
+title: # 弗拉基米尔·普京希望在人工智能领域赶上西方 | 商业新闻</p>
+
+布局：文章
+标题：# 弗拉基米尔·普京希望在人工智能领域追赶西方 | 商业新闻
+
+全文翻译：
+在这个位置的文章中，弗拉基米尔·普京被提及具有追赶西方国家在人工智能领域的雄心。这则内容归类于商业新闻范畴。
+
+
+
+<h1>Vladimir Putin wants to catch up with the West in AI | Business</h1>
+
+弗拉基米尔·普京希望在人工智能领域赶超西方 | 商业
+
+
+
+<h2>excerpt_separator: <!--more--></h2>
+
+由于提供的"原文"部分没有给出，我无法为你提供全文的翻译。如果你能提供完整的原文，我会很乐意帮助你进行翻译。
+
+
+
+more
+<h1>Vladimir Putin wants to catch up with the West in AI | Business</h1>
+
+弗拉基米尔·普京希望在人工智能领域赶上西方|商业
+
+
+
+<p><img src="https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240210_WBD003.jpg"/><div></div><p><span>S</span><small>IX YEARS</small> ago, before anyone had heard of Chat<small>GPT</small>, Vladimir Putin said that the country that led the development of artificial intelligence (<small>AI</small>) would become the “ruler of the world”. He echoed the sentiment in December, when he suggested that Russia should “head and lead” the march of <small>AI</small>. Those comments came in response to a video-caller during a televised phone-in who had taken on the Russian president’s likeness using an apparently <small>AI</small>-generated deepfake, seemingly startling the real-life strongman for a moment. </p><div><figure><div><figcaption>Listen to this story.</figcaption> <span>Enjoy more audio and podcasts on<!-- --> <a href="https://www.economist.comhttps://economist-app.onelink.me/d2eC/bed1b25" id="audio-ios-cta" rel="noreferrer" target="_blank">iOS</a> <!-- -->or<!-- --> <a href="https://www.economist.comhttps://economist-app.onelink.me/d2eC/7f3c199" id="audio-android-cta" rel="noreferrer" target="_blank">Android</a>.</span></div><audio controls="" id="audio-player" preload="none" src="https://www.economist.com/media-assets/audio/063%20Business%20-%20The%20AI%20race-9d8e4e4de7426eef2be16b59844dc4b7.mp3" title="Vladimir Putin wants to catch up with the West in AI"><p>Your browser does not support the &lt;audio&gt; element.</p></audio><div><div></div></div></figure></div><p>For Mr Putin, “leading” on <small>AI </small>is part of an ideological battle with the West. The success of tools such as Chat<small>GPT</small>, developed by an American startup called Open<small>AI</small>, has led him to decry the dangers of relying on Western <small>AI</small>s trained on English-language data. Western “large language models” (<small>LLM</small>s) could, Mr Putin avers, “cancel” Russia’s perspective on the world if unchallenged. They also threaten a regime that has sought to control the Russian internet in recent years, a process accelerated by the invasion of Ukraine. To no one’s surprise, the Kremlin banned Chat<small>GPT</small> shortly after its launch in November 2022. Several Russian companies are hard at work trying to build alternatives. </p><div><div><div id="econ-1"></div></div></div><p>Last year Sber, a state-controlled lender with tech ambitions that was first tasked by the Kremlin with <small>AI </small>development in 2019, launched GigaChat, a chatbot that combines a command of Russian with the ability to generate computer code and images. Yandex, Russia’s search giant, has integrated an <small>LLM</small>, Yandex<small>GPT</small>-2, into its virtual-assistant service, known as “Alice”.</p><p>The models are excellent at hewing to the party line. Alice, for example, refused to answer <i>The Economist</i>’s questions about the war in Ukraine or Alexei Navalny, Russia’s main opposition leader imprisoned in Siberia. It is less clear that they are capable of outsmarting Western <small>AI</small>s. Yandex claims that Yandex<small>GPT</small>-2 does better than <small>GPT</small>-3.5, the model behind an earlier version of Chat<small>GPT</small>, when answering queries in Russian. But Western experts consulted by <i>The Economist</i> have found no independent analysis to confirm this contention, and there have been no public comparisons with <small>GPT</small>-4, the much more powerful current iteration of Open<small>AI</small>’s model. </p><p>Russia also lags behind the West on a variety of <small>AI</small>-innovation indicators. A report compiled by Stanford University said that, in 2022, the country produced only one “significant” machine-learning system, compared with 16 in America and eight in Britain. As of June 2023 Russia was thought to have just seven of the world’s 500 most powerful supercomputers, in contrast with America’s 150. Russia also ranked 38th out 193 countries in the latest <small>AI</small>-readiness index by Oxford Insights, a consultancy; America came first. </p><p>To catch up, Mr Putin envisages an ambitious <small>AI </small>strategy to replace an earlier one from 2019. The Kremlin’s list of initial “instructions”, released in January, suggests this new plan will aim to increase Russia’s supercomputing capacity, expand training for <small>AI </small>professionals and improve co-operation among the<small> BRICS</small>, a bloc that includes China and India. </p><div><div><div id="econ-2"></div></div></div><p>Mr Putin’s instructions seem unrealistic, to put it politely. The war has led many Russian developers and engineers to flee from the country: one Kremlin official has suggested that 100,000 <small>IT </small>specialists left in 2022 alone, roughly 10% of the tech workforce. Arkady Volozh, Yandex’s founder, lives in exile in Britain and Israel after criticising the invasion. Sanctions limit Russia’s access to advanced chips, which are made almost exclusively by companies in America, South Korea and Taiwan, all part of the anti-Russian alliance. In Russia’s war economy, private investment in tech is, unsurprisingly, dwindling. The value of venture capital going into the sector was just $71m in 2023, according to <small>D</small>Sight, a business-intelligence firm based in Moscow, a fall of 83% from the previous year. </p><p>Mr Putin’s response is, as with most things in Russia these days, to tighten the state’s grip over the industry. In 2022 Yandex sold its news and blogging services to <small>VK</small>, a state-controlled online conglomerate. On February 5th its parent company, which is based in the Netherlands and listed in New York, said it would sell the Russian business (which accounts for 95% of its revenues) for $5bn to a consortium led by an arm of Lukoil, an energy company. The Kremlin welcomed the deal. State-run entities such as Rostec, a defence group, and Gazprom Neft, a subsidiary of the country’s largest energy firm, are also dabbling in <small>AI</small>. Sber’s chief executive, German Gref, says the bank is investing some $1bn a year in the technology. </p><p>These sums are, though, trifling next to the tens of billions of dollars being spent by American <small>AI </small>champions such as Alphabet and Microsoft (which has a partnership with Open<small>AI</small>). The state money brings with it inefficiency and a lack of competition—hardly a recipe for innovation. It also encourages developing <small>AI </small>for the battlefield rather than the marketplace. </p><h2>On the defensive</h2><p>Russia has made progress in military <small>AI</small>, says Katarzyna Zysk of the Norwegian Institute for Defence Studies, a think-tank, particularly in drones. But in the West and even in China, a Russian ally, the excitement over machine learning has been fuelled chiefly by recent leaps in general-purpose applications such as Chat<small>GPT</small>, not specialist ones like pilotless aircraft. Western and Chinese strategists are counting on such fast-improving civilian <small>AI </small>to confer an economic and, ultimately, geopolitical and military edge. So long as it remains on a war footing, Russia will not make much progress on that front. <span>■</span></p><p><i>To stay on top of the biggest stories in business and technology, sign up to the <a href="https://www.economist.com/newsletters/the-bottom-line">Bottom Line</a>, our weekly subscriber-only newsletter.</i></p><br/><hr/><div>获取更多RSS：<br/><a href="https://feedx.net" style="color: orange;" target="_blank">https://feedx.net</a> <br/><a href="https://feedx.run" style="color: orange;" target="_blank">https://feedx.run</a><br/></div></p>
+
+原文：
+SIX YEARS ago, before anyone had heard of ChatGPT, Vladimir Putin said that the country that led the development of artificial intelligence (AI) would become the “ruler of the world.” He echoed this sentiment in December when he suggested that Russia should “head and lead” the march of AI. Those comments came in response to a video caller during a televised phone-in who had adopted the appearance of Russian President using an AI-generated deepfake, reportedly shocking the real-life leader for a moment.
+
+翻译：
+六年前，也就是ChatGPT尚未被大众知晓的时期，弗拉基米尔·普京曾言，引领人工智能（AI）发展的国家将成为“世界的主宰者”。他在十二月重申了这一观点，并建议俄罗斯应该在AI领域“领头并领导”。这些评论是对电视电话节目中一个视频通话者的回应。这个通话者使用了一种AI生成的深度伪造技术，模拟了俄罗斯总统的形象，从而在一瞬间惊动了这位真实的领导者。
+
+请注意：由于翻译限制，部分内容可能无法完全还原原文的细节和语境。
+
