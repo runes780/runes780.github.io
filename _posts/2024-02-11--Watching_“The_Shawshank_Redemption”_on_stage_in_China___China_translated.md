@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 在中国舞台上观看《肖申克的救赎》|中国
+title: # 在中国观看舞台版《肖申克的救赎》| 中国
 
 
 # Watching “The Shawshank Redemption” on stage in China | China
