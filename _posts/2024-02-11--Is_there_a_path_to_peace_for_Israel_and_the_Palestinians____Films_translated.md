@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 对于以色列和巴勒斯坦，和平之路是否存在？ | 影片
+title: # 对于以色列和巴勒斯坦，有没有和平的道路？| 电影
 
 
 # Is there a path to peace for Israel and the Palestinians? | Films
