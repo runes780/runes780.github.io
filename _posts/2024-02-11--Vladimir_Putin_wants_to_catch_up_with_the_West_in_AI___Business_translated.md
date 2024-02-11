@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 弗拉基米尔·普京希望在人工智能领域赶上西方——商业。
+title: # 弗拉基米尔·普京希望在人工智能领域赶上西方 | 商业新闻
 
 
 # Vladimir Putin wants to catch up with the West in AI | Business
