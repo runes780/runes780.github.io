@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 一个新的“史密斯夫妇”不仅仅是动作、金钱和性的故事。| 文化版块
+title: # 一篇新的“史密斯夫妇”（Mr. and Mrs. Smith）所涉及的，远不止动作、金钱与性。| 文化
 
 
 # A new “Mr and Mrs Smith” is about more than action, money and sex | Culture
