@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 抗议活动正在激增，因为中国的工人要求领取工资——中国报道。
+title: # 抗议活动正在激增，因为中国的工人要求他们应得的工资。| 中国
 
 
 # Protests are soaring, as China’s workers demand their wages | China
