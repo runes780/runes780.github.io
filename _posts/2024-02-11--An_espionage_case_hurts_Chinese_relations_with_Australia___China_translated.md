@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 一起间谍案损害了中国与澳大利亚的关系——中国观察
+title: # 一起间谍案损害了中国与澳大利亚的关系|中国
 
 
 # An espionage case hurts Chinese relations with Australia | China
