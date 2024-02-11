@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 一位颇具争议的将军似乎很有可能成为印度尼西亚的下一任领导人 | 亚洲
+title: # 一位颇具争议的将军似乎很可能成为印度尼西亚的下一任领导人|亚洲|
 
 
 # A controversial general looks likely to be Indonesia’s next leader | Asia
