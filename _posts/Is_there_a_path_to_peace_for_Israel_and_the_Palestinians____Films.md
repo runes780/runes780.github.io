@@ -1,0 +1,4 @@
+# Is there a path to peace for Israel and the Palestinians? | Films
+
+<img src="https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240208_FLP002.jpg" /><div></div><p></p><p><span>T</span><small>hings look</small> <small>bleak</small> in the Middle East. Thousands have died in Israel’s assault on Gaza, following Hamas’s attack on October 7th; America is retaliating against strikes on its soldiers by Iran-backed militias. Now <a href="https://www.economist.com/middle-east-and-africa/2024/02/07/israel-scorns-americas-unprecedented-peace-plan">Binyamin Netanyahu has scorned America’s attempt at a peace deal</a>, but in private he’s said to be more flexible. Is there a path to ending the conflict?</p>
+
