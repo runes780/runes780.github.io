@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 最高法院暗示，将继续让唐纳德·特朗普出现在选票上 | 美国
+title: # 最高法院暗示会保留唐纳德·特朗普的候选资格 | 美国
 
 
 # The Supreme Court hints it will keep Donald Trump on the ballot | United States
