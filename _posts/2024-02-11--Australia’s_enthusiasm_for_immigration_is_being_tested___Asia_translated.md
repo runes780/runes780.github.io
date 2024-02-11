@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 澳大利亚对移民的热情正在面临考验 | 亚洲
+title: # 澳大利亚对于移民的热情正面临考验|亚洲
 
 
 # Australia’s enthusiasm for immigration is being tested | Asia
