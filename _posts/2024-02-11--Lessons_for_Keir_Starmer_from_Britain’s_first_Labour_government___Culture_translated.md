@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 英国首个工党政府的经历对基尔·施塔默有一些启示，这些启示关乎文化。
+title: # 对于基尔·施特拉默来说，英国首个工党内阁的教训 | 文化
 
 
 # Lessons for Keir Starmer from Britain’s first Labour government | Culture
