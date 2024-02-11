@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 马德里正在蓬勃发展。在保持冷静的同时实现增长，将是接下来需要巧妙应对的挑战。| 欧洲
+title: # 马德里正蓬勃发展。接下来的关键是要在增长的同时保持冷静与稳健。| 欧洲观察
 
 
 # Madrid is booming. Growing while keeping its cool will be the tricky part | Europe
