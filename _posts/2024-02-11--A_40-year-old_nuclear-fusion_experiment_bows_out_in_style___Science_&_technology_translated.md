@@ -11,31 +11,10 @@ excerpt_separator: <!--more-->
 # 一篇关于40年核聚变实验的报道，以优雅的方式宣告退出。| 科学与技术
 
 
-# 一位40岁的核聚变实验体面地退出科学和技术舞台。
-
-
----
-layout: post
-title: ---
-excerpt_separator: more
----
-
-
-more
-
----
-layout: post
-title: # 一位40岁的核聚变实验优雅谢幕 | 科技与工程
-
 
 # A 40-year-old nuclear-fusion experiment bows out in style | Science & technology
-excerpt_separator: more
----
 
 
-more
-
-# A 40-year-old nuclear-fusion experiment bows out in style | Science & technology
 
 ![image](https://images.weserv.nl/?url=www.economist.com/img/b/1280/720/90/media-assets/image/20240210_STP504.jpg)
 
