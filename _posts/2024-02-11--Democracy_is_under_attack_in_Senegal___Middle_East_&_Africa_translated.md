@@ -1,6 +1,8 @@
 ---
 layout: post
-title: # "民主正在塞内加尔受到攻击。"
+title: # "民主在塞内加尔正受到攻击|中东与非洲版块。" 
+
+全文翻译为：民主正在遭受挑战，这体现在塞内加尔的政治局势中。该国的民主制度正处于攻击之下，这引发了对该地区民主未来的担忧。
 
 
 # Democracy is under attack in Senegal | Middle East & Africa
