@@ -1,31 +1,6 @@
----
-layout: post
-title: 全文翻译：
 
-弗拉基米尔·普京进一步加强了他在俄罗斯和欧洲范围内的镇压行动。
-
-excerpt_separator: <!--more-->
----
-
-
-<!--more-->
-
----
-layout: post
-title: Vladimir_Putin_extends_his_crackdown_in_Russia___Europe.md
-excerpt_separator: more
----
-
-
-more
 <h1>Vladimir Putin extends his crackdown in Russia | Europe</h1>
 
-全文翻译：弗拉基米尔·普京加强对俄罗斯的镇压措施|欧洲新闻。
-
-
-
-
-弗拉基米尔·普京加大对俄罗斯的镇压力度 | 欧洲
 
 
 
