@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 竞技无人机正在被改造成精确制导炸弹。它们将重塑战争的未来 | 故事播客。
+title: # 竞速无人机正被改造成精确炸弹。它们将重塑战争的未来 |播客
 
 
 # Racing drones are being made into precision bombs. They will transform the future of war | Podcasts
