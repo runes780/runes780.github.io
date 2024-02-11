@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 以色列蔑视美国前所未有的和平计划|中东与非洲
+title: # 以色列拒绝美国史无前例的和平计划 | 中东与非洲
 
 
 # Israel scorns America’s unprecedented peace plan | Middle East & Africa
