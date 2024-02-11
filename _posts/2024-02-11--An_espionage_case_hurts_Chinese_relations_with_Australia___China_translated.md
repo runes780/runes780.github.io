@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 一桩间谍案损害了中国与澳大利亚的关系。| 中国
+title: # 一个间谍案损害了中国与澳大利亚的关系 | 中國
 
 
 # An espionage case hurts Chinese relations with Australia | China
