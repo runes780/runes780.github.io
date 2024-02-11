@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 习近平的朋友们：热爱混乱的那一面 | 中国
+title: # 习近平的喜欢混乱的朋友|中国
 
 
 # Xi Jinping’s chaos-loving friends | China
