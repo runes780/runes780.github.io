@@ -1,6 +1,6 @@
 ---
 layout: post
-title: # 塞内加尔选举延期令人忧虑，这对于民主的堡垒来说尤其如此 |播客
+title: # 塞内加尔选举的推迟令人担忧，对于民主的堡垒来说更是如此 |播客
 
 
 # Senegal’s election delay is a worrisome step for a bastion of democracy | Podcasts
