@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-29T23:04:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Runes’s Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>runes780</name></author><entry><title type="html">大二第二学期安排</title><link href="http://localhost:4000/study/learning-list/" rel="alternate" type="text/html" title="大二第二学期安排" /><published>2022-04-08T00:00:00+08:00</published><updated>2025-01-29T22:47:26+08:00</updated><id>http://localhost:4000/study/learning-list</id><content type="html" xml:base="http://localhost:4000/study/learning-list/"><![CDATA[<h2 id="1-自然语言处理入门">1. 自然语言处理入门</h2>
+
+<h3 id="11-cs224n">1.1 CS224n</h3>
+<p><a href="http://web.stanford.edu/class/cs224n/">课程链接</a></p>
+
+<p><strong>预备知识要求：</strong></p>
+<ul>
+  <li>数学基础
+    <ul>
+      <li>大学微积分</li>
+      <li>线性代数 (例如 MATH 51, CME 100)</li>
+      <li>需要熟悉（多元）导数和理解矩阵/向量表示及运算</li>
+    </ul>
+  </li>
+  <li>概率统计基础 (例如 CS 109 或同等课程)
+    <ul>
+      <li>需要了解概率基础</li>
+      <li>高斯分布</li>
+      <li>平均值、标准差等概念</li>
+    </ul>
+  </li>
+  <li>机器学习基础 (例如 CS221, CS229, CS230, 或 CS124)
+    <ul>
+      <li>将涉及构建损失函数</li>
+      <li>求导和梯度下降优化</li>
+      <li>建议预先阅读 Hal Daumé 的《A Course in Machine Learning》前5-7章</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="12-coursera自然语言处理专项课程">1.2 Coursera自然语言处理专项课程</h3>
+
+<h2 id="2-学习系统建立">2. 学习系统建立</h2>
+
+<h3 id="21-习惯养成">2.1 习惯养成</h3>
+<ul>
+  <li>每日循环
+    <ul>
+      <li>制定计划</li>
+      <li>日常总结</li>
+      <li>知识复习</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>runes780</name></author><category term="Study" /><category term="learning" /><category term="NLP" /><category term="planning" /><category term="self-improvement" /><summary type="html"><![CDATA[1. 自然语言处理入门]]></summary></entry><entry><title type="html">My First Post</title><link href="http://localhost:4000/blog/hello-world/" rel="alternate" type="text/html" title="My First Post" /><published>2020-08-20T00:00:00+08:00</published><updated>2020-08-20T00:00:00+08:00</updated><id>http://localhost:4000/blog/hello-world</id><content type="html" xml:base="http://localhost:4000/blog/hello-world/"><![CDATA[<p>runes780的冒险在这里开始了</p>
+
+<p>在这个blog里会记录一些生活学习上的成长</p>]]></content><author><name>runes780</name></author><category term="Blog" /><category term="personal" /><category term="introduction" /><summary type="html"><![CDATA[runes780的冒险在这里开始了]]></summary></entry></feed>

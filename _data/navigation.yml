@@ -1,7 +1,9 @@
-# _data/navigation.yml
-- title: "首页"
-  url: "/"
-- title: "归档"
-  url: "/archive"
-- title: "关于"
-  url: "/about"
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
