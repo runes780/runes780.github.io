@@ -1,3 +1,34 @@
+---
+abstract: |
+  This working note records a partial exploration of Erdős Problem
+  \#864. It does not solve the problem and does not improve the known
+  unconditional $`(\sqrt2+o(1))\sqrt N`$ upper-bound barrier. The
+  purpose is to isolate a paired-core obstruction and convert it into a
+  finite Sidon “hole” problem. In the paired model $`A_0=B\cup(s-B)`$,
+  the lower-side obstruction is
+  ``` math
+  (B+B)\cap(s-D^+(B))=\varnothing.
+  ```
+  After normalizing $`B\subseteq[0,L]`$, $`0,L\in B`$, and writing
+  $`s=3L-\Omega`$, this is equivalent to
+  ``` math
+  \Omega\notin B+3(L-B).
+  ```
+  We define the associated extremal function $`g(L,\Omega)`$, give small
+  exact branch-and-bound computations, record a local packing lemma, and
+  formulate a possible asymptotic sub-conjecture. The main missing input
+  is an inverse theorem ruling out holes of $`B+3(L-B)`$ for
+  near-maximal Sidon sets.
+author:
+- |
+  Working note prepared with AI assistance  
+  No claim of solution or novelty is made.
+date: May 2026
+title: |
+  An AI-assisted exploration of Erdős Problem \#864:  
+  from the $`\sqrt{2}`$ barrier to a structured Sidon hole problem
+---
+
 # Claim status
 
 <div class="center">
